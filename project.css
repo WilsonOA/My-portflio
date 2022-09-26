@@ -1,0 +1,24 @@
+*{
+    padding:0;
+    margin:0;
+    font-family: 'Josefin , sans-serifs';
+    background-color:#19547b;
+    box-sizing: border-box;
+}
+
+h1{
+    color:aliceblue;
+    margin:20px 0px 20px;
+    font: size 175px;
+    text-align: center;
+}
+
+h2{
+    color:#d6ae7b;
+    margin:20px 0px 20px;
+    font: size 105px;
+    text-align:left;
+}
+span{
+    color:#f9004d; 
+}
